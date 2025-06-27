@@ -19,5 +19,5 @@ RentVideo is a Spring Boot REST API for a basic video rental system with user au
 - Spring Security
 - Spring Data JPA
 - MySQL
-- Gradle
+- Gradle.
 
